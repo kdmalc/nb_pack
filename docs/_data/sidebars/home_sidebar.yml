@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: 'Module: nbpack'
       url: /core
     output: web
     title: nbpack

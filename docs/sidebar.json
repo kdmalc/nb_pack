@@ -1,6 +1,6 @@
 {
   "nbpack": {
     "Overview": "/",
-    "module name here": "/core"
+    "Module: nbpack": "/core"
   }
 }
