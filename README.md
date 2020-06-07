@@ -1,12 +1,17 @@
-# Welcome to nbpack from Tutorial
+# Welcome to nb_pack from Tutorial
 > Generic tutorial description number 4
 
+
+```python
+%load_ext autoreload
+%autoreload 2
+```
 
 This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install np_pack`
 
 ## How to use
 

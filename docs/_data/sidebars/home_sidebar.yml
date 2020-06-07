@@ -10,9 +10,9 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: 'Module: nbpack'
+      title: 'Module: nb_pack'
       url: /core
     output: web
-    title: nbpack
+    title: nb_pack
   output: web
   title: Sidebar

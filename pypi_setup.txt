@@ -1,0 +1,3 @@
+[pypi]
+username = kdmalc
+password = Tinotech21

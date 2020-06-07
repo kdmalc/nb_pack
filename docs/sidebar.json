@@ -1,6 +1,6 @@
 {
-  "nbpack": {
+  "nb_pack": {
     "Overview": "/",
-    "Module: nbpack": "/core"
+    "Module: nb_pack": "/core"
   }
 }
